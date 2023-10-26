@@ -6,4 +6,4 @@ scikit-learn
 category_encoders
 wtforms
 flask_wtf
-gunicorn
+guvicorn
